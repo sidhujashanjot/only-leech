@@ -9,14 +9,19 @@
 [![Watch the video](https://img.youtube.com/vi/ZK4e7n1jEE0/hqdefault.jpg)](https://youtu.be/ZK4e7n1jEE0)
 
 ### Note: 
-Aria2p is removed so leech/mirror for direct links and magnets will not work <br>
+- If you are using Service accounts add them to google group and then add google group to shared drive as content manager or watch (https://www.youtube.com/watch?v=gFQWJ4ftt48&t=5034s)
+- Aria2p is removed so leech/mirror for direct links and magnets will not work <br>
 btw you can leech from google drive
 
 ### Features:
+- Log channel support
+- Change filename while cloning, ex: `/clone <drive_url> |new file name.ext`
 - Leech drive links (splitting, thumbnail for each user, setting as document or as media for each user)
 - Stop duplicates for all tasks except yt-dlp tasks
 - Zip/Unzip G-Drive links
 - Counting files/folders from Google Drive link
+- Direct Clone from 
+  > GDToT, AppDrive, DriveApp, DriveLinks, DriveAce, DriveBit, DriveSharer, GDFlix, DriveRoot, DriveFlix, DriveHub.in, AniDrive, IndiDrive, HubDrive, KatDrive, DriveHub.ws, Kolop, DriveFire, DriveBuzz and Sharer.pw links
 - View Link button, extra button to open file index link in broswer instead of direct download
 - Status Pages for unlimited tasks
 - Clone status
@@ -32,7 +37,7 @@ btw you can leech from google drive
 - Extenstion Filter for uploading/cloning files
 - Incomplete task notifier to get incomplete task messages after restart, works with database.
 - Mirror Telegram files to Google Drive
-- Copy files from someone's Drive to your Drive 
+- Copy files from someone's Drive to your Drive
 - Download/Upload progress, Speeds and ETAs
 - Mirror all yt-dlp supported links
 - Uploading to Team Drive
